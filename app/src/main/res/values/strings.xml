@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DummyID</string>
+    <string name="Head1">National Identity Management System"</string>
+    <string name="Subhead">Federal Republic of Nigeria</string>
+    <string name="Subhead2">National Identification Number Slip (NINS)</string>
+    <string name="track">Tracking ID:</string>
+    <string name="nin">NIN:</string>
+    <string name="issue">Issue Date</string>
+    <string name="surname">Surname</string>
+    <string name="name1">First Name</string>
+    <string name="name2">Middle Name</string>
+    <string name="gender">Gender</string>
+    <string name="add">Address:</string>
+    <string name="note">Note: The transaction slip does not confer the right to the General Multipurpose Card (For any enquiry please contact)</string>
+    <string name="helpdesk">helpdesk@nimc.gov.ng</string>
+    <string name="website">www.nimc.gov.ng</string>
+    <string name="phonenumbers">07040144452, 07040144453, 07040144454</string>
+    <string name="add2">National Identity Management Commission</string>
+    <string name="subadd2">11, Sokode Crescent. Off Dalaba Street, Zone 5 Wuze, Abuja Nigeria</string>
+</resources>
